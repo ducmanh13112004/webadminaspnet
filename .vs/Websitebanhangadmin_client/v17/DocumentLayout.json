@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|c:\\users\\tran duc manh\\onedrive\\documents\\websitebanhangadmin_client\\websitebanhangadmin_client\\areas\\admin\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\areas\\admin\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|c:\\users\\tran duc manh\\onedrive\\documents\\websitebanhangadmin_client\\websitebanhangadmin_client\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|c:\\users\\tran duc manh\\onedrive\\documents\\websitebanhangadmin_client\\websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|c:\\users\\tran duc manh\\onedrive\\documents\\websitebanhangadmin_client\\websitebanhangadmin_client\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|c:\\users\\tran duc manh\\onedrive\\documents\\websitebanhangadmin_client\\websitebanhangadmin_client\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|c:\\users\\tran duc manh\\onedrive\\documents\\websitebanhangadmin_client\\websitebanhangadmin_client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|c:\\users\\tran duc manh\\onedrive\\documents\\websitebanhangadmin_client\\websitebanhangadmin_client\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|c:\\users\\tran duc manh\\onedrive\\documents\\websitebanhangadmin_client\\websitebanhangadmin_client\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|c:\\users\\tran duc manh\\onedrive\\documents\\websitebanhangadmin_client\\websitebanhangadmin_client\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|c:\\users\\tran duc manh\\onedrive\\documents\\websitebanhangadmin_client\\websitebanhangadmin_client\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|c:\\users\\tran duc manh\\onedrive\\documents\\websitebanhangadmin_client\\websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T06:50:56.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T06:48:58.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\Product.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:45:59.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:45:57.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:45:25.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:45:18.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:45:13.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:45:09.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\Category.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:44:24.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "ToolTip": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T06:43:52.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminProductController.cs",
+              "DocumentMoniker": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "ToolTip": "C:\\Users\\TRAN DUC MANH\\OneDrive\\Documents\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:43:32.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

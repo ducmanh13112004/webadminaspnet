@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Websitebanhangadmin_client.Models.Product>
+
+<h2>Products</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Product Image</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Description</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(product.ImageUrl))
+                    {
+                        <img src="@product.ImageUrl" alt="Product Image" style="max-width: 100px;" />
+                    }
+                    else
+                    {
+                        <p>No image available.</p>
+                    }
+                </td>
+                <td>@product.Category?.Name</td>
+                <td>
+                    <a asp-action="Display" asp-route-id="@product.Id">View</a>
+                   
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

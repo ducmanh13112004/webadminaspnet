@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPNET\\Websitebanhangadmin_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\areas\\admin\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\areas\\admin\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\wwwroot\\js\\statistic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\wwwroot\\js\\statistic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\areas\\admin\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\areas\\admin\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\areas\\admin\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\areas\\admin\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\wwwroot\\css\\syle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\wwwroot\\css\\syle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\wwwroot\\css\\startmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\wwwroot\\css\\startmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\wwwroot\\css\\morris.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\wwwroot\\css\\morris.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\areas\\admin\\views\\adminproduct\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\wwwroot\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\wwwroot\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|d:\\aspnet\\websitebanhangadmin_client\\websitebanhangadmin_client\\migrations\\20241022133628_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39109516-37F4-4D7C-95D6-DA009A72424B}|Websitebanhangadmin_client\\Websitebanhangadmin_client.csproj|solutionrelative:websitebanhangadmin_client\\migrations\\20241022133628_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Statistic.js",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\js\\Statistic.js",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\wwwroot\\js\\Statistic.js",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\js\\Statistic.js",
+              "RelativeToolTip": "Websitebanhangadmin_client\\wwwroot\\js\\Statistic.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-23T03:13:06.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "syle.css",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\css\\syle.css",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\wwwroot\\css\\syle.css",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\css\\syle.css",
+              "RelativeToolTip": "Websitebanhangadmin_client\\wwwroot\\css\\syle.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-23T03:11:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "startmin.css",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\css\\startmin.css",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\wwwroot\\css\\startmin.css",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\css\\startmin.css",
+              "RelativeToolTip": "Websitebanhangadmin_client\\wwwroot\\css\\startmin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-23T03:10:45.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "morris.css",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\css\\morris.css",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\wwwroot\\css\\morris.css",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\css\\morris.css",
+              "RelativeToolTip": "Websitebanhangadmin_client\\wwwroot\\css\\morris.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-23T03:10:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\Statistic\\Index.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\Statistic\\Index.cshtml",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\Statistic\\Index.cshtml*",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\Statistic\\Index.cshtml*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T02:22:29.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatisticController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\StatisticController.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\StatisticController.cs",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\StatisticController.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\StatisticController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:22:01.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T02:21:11.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:42:54.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAQwBoBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:01:12.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Update.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Update.cshtml",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Update.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:56:43.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminProductController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:21:17.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Models\\Category.cs",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\Category.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:59:13.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Models\\Product.cs",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\Product.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Models\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:41:23.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Delete.cshtml",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Delete.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Areas\\Admin\\Views\\AdminProduct\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:58:00.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Program.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Program.cs",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Program.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:28:38.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:49:21.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:55:47.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:57:35.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Views\\Product\\Add.cshtml",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T15:00:14.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:27:49.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:00:54.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241022133628_AddIdentity.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Migrations\\20241022133628_AddIdentity.cs",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\Migrations\\20241022133628_AddIdentity.cs",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\Migrations\\20241022133628_AddIdentity.cs",
+              "RelativeToolTip": "Websitebanhangadmin_client\\Migrations\\20241022133628_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:36:29.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeToolTip": "Websitebanhangadmin_client\\wwwroot\\css\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAADFyAEAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T14:02:26.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\js\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "Websitebanhangadmin_client\\wwwroot\\js\\bootstrap.min.js",
+              "ToolTip": "D:\\ASPNET\\Websitebanhangadmin_client\\Websitebanhangadmin_client\\wwwroot\\js\\bootstrap.min.js",
+              "RelativeToolTip": "Websitebanhangadmin_client\\wwwroot\\js\\bootstrap.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T14:05:09.622Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
